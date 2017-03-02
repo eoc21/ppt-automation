@@ -1,0 +1,576 @@
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821103654472220672/YBvKW0Te_normal.jpg HTTP/1.1" 200 2567
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823088454573637632/MwYbo0vF_normal.jpg HTTP/1.1" 200 1883
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830890693971308544/HP4WB06x_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/532090942191570945/W2PMHPBm_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/716561935391715328/CnrejMu-_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/806775056957218817/27OrE1sg_normal.jpg HTTP/1.1" 200 2491
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/817786336698662913/DOwh-0QV_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/768496094649212928/PZBrzBZR_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/616531015373332481/DP748ijj_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/815250482667122688/MM42QjPL_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/799219501279625216/EfvdCf73_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/588323933335740417/snwNqjCZ_normal.jpg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/633814724132630528/2v4tC-zb_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/783636722735276032/JDL3odsZ_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802520407194513409/q4rg_Iy8_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/619986629848137729/oyavSGE0_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/25430232/sarah_profile_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/536645747568291841/ni8cqy0T_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1508248859/Picture_2_normal.png HTTP/1.1" 200 10341
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/430119570372689920/bvYKiFTP_normal.jpeg HTTP/1.1" 200 1851
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/769461111586492416/7tKLn6YF_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/539341662632558592/kDKhto1p_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/825855012186238979/6eoTLXBK_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/640851088158126080/Olxt9ANe_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/563440666622324736/t4yO6izV_normal.jpeg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/643429953007153152/fEu31Wxy_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/814771282499764224/ioKUCQBD_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821320554955280384/PMe5bAmA_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/798811395227664384/x1Ls0iD0_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/655482158480519169/LFyNkwZ-_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/604977431473209344/LPSOL529_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/575047724925505536/B2zZbG9J_normal.png HTTP/1.1" 200 1959
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830015838728118272/pjIHnrkl_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/793783406601637888/M-ag_DzH_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/697898913022545920/jZHQUWCa_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/645159396570460160/aLaQbT0r_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/2306887024/s0bh9mtg51pdqbgmtumb_normal.jpeg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823124910671364096/JeDxud0e_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/822562545311641600/iNoinQOy_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1648587298/f8bcc316-2202-4c4c-aba9-1ede53ce54dd_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802829185806909440/UCaJZwSy_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/761512046039105536/UVp-hQOn_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/835202457357660160/yy55At9E_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/649671515856879616/WQo7prfc_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/836242371222261760/D0wDtf9w_normal.jpg HTTP/1.1" 200 2263
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/418871348371652608/WfJ551_K_normal.jpeg HTTP/1.1" 200 1569
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/719505283412856834/1FzO3gMs_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/689229990555168768/GimHIOP7_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821103654472220672/YBvKW0Te_normal.jpg HTTP/1.1" 200 2567
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823088454573637632/MwYbo0vF_normal.jpg HTTP/1.1" 200 1883
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830890693971308544/HP4WB06x_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/532090942191570945/W2PMHPBm_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/716561935391715328/CnrejMu-_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/806775056957218817/27OrE1sg_normal.jpg HTTP/1.1" 200 2491
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/817786336698662913/DOwh-0QV_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/768496094649212928/PZBrzBZR_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/616531015373332481/DP748ijj_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/815250482667122688/MM42QjPL_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/799219501279625216/EfvdCf73_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/588323933335740417/snwNqjCZ_normal.jpg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/633814724132630528/2v4tC-zb_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/783636722735276032/JDL3odsZ_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802520407194513409/q4rg_Iy8_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/619986629848137729/oyavSGE0_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/25430232/sarah_profile_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/536645747568291841/ni8cqy0T_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1508248859/Picture_2_normal.png HTTP/1.1" 200 10341
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/430119570372689920/bvYKiFTP_normal.jpeg HTTP/1.1" 200 1851
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/769461111586492416/7tKLn6YF_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/539341662632558592/kDKhto1p_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/825855012186238979/6eoTLXBK_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/640851088158126080/Olxt9ANe_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/563440666622324736/t4yO6izV_normal.jpeg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/643429953007153152/fEu31Wxy_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/814771282499764224/ioKUCQBD_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821320554955280384/PMe5bAmA_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/798811395227664384/x1Ls0iD0_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/655482158480519169/LFyNkwZ-_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/604977431473209344/LPSOL529_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/575047724925505536/B2zZbG9J_normal.png HTTP/1.1" 200 1959
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830015838728118272/pjIHnrkl_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/793783406601637888/M-ag_DzH_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/697898913022545920/jZHQUWCa_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/645159396570460160/aLaQbT0r_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/2306887024/s0bh9mtg51pdqbgmtumb_normal.jpeg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823124910671364096/JeDxud0e_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/822562545311641600/iNoinQOy_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1648587298/f8bcc316-2202-4c4c-aba9-1ede53ce54dd_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802829185806909440/UCaJZwSy_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/761512046039105536/UVp-hQOn_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/835202457357660160/yy55At9E_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/649671515856879616/WQo7prfc_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/836242371222261760/D0wDtf9w_normal.jpg HTTP/1.1" 200 2263
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/418871348371652608/WfJ551_K_normal.jpeg HTTP/1.1" 200 1569
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/719505283412856834/1FzO3gMs_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/689229990555168768/GimHIOP7_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821103654472220672/YBvKW0Te_normal.jpg HTTP/1.1" 200 2567
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823088454573637632/MwYbo0vF_normal.jpg HTTP/1.1" 200 1883
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830890693971308544/HP4WB06x_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/532090942191570945/W2PMHPBm_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/716561935391715328/CnrejMu-_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/806775056957218817/27OrE1sg_normal.jpg HTTP/1.1" 200 2491
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/817786336698662913/DOwh-0QV_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/768496094649212928/PZBrzBZR_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/616531015373332481/DP748ijj_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/815250482667122688/MM42QjPL_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/799219501279625216/EfvdCf73_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/588323933335740417/snwNqjCZ_normal.jpg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/633814724132630528/2v4tC-zb_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/783636722735276032/JDL3odsZ_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802520407194513409/q4rg_Iy8_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/619986629848137729/oyavSGE0_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/25430232/sarah_profile_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/536645747568291841/ni8cqy0T_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1508248859/Picture_2_normal.png HTTP/1.1" 200 10341
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/430119570372689920/bvYKiFTP_normal.jpeg HTTP/1.1" 200 1851
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/769461111586492416/7tKLn6YF_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/539341662632558592/kDKhto1p_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/825855012186238979/6eoTLXBK_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/640851088158126080/Olxt9ANe_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/563440666622324736/t4yO6izV_normal.jpeg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/643429953007153152/fEu31Wxy_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/814771282499764224/ioKUCQBD_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821320554955280384/PMe5bAmA_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/798811395227664384/x1Ls0iD0_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/655482158480519169/LFyNkwZ-_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/604977431473209344/LPSOL529_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/575047724925505536/B2zZbG9J_normal.png HTTP/1.1" 200 1959
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830015838728118272/pjIHnrkl_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/793783406601637888/M-ag_DzH_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/697898913022545920/jZHQUWCa_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/645159396570460160/aLaQbT0r_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/2306887024/s0bh9mtg51pdqbgmtumb_normal.jpeg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823124910671364096/JeDxud0e_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/822562545311641600/iNoinQOy_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1648587298/f8bcc316-2202-4c4c-aba9-1ede53ce54dd_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802829185806909440/UCaJZwSy_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/761512046039105536/UVp-hQOn_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/835202457357660160/yy55At9E_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/649671515856879616/WQo7prfc_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/836242371222261760/D0wDtf9w_normal.jpg HTTP/1.1" 200 2263
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/418871348371652608/WfJ551_K_normal.jpeg HTTP/1.1" 200 1569
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/719505283412856834/1FzO3gMs_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/689229990555168768/GimHIOP7_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821103654472220672/YBvKW0Te_normal.jpg HTTP/1.1" 200 2567
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823088454573637632/MwYbo0vF_normal.jpg HTTP/1.1" 200 1883
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830890693971308544/HP4WB06x_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/532090942191570945/W2PMHPBm_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/716561935391715328/CnrejMu-_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/806775056957218817/27OrE1sg_normal.jpg HTTP/1.1" 200 2491
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/817786336698662913/DOwh-0QV_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/768496094649212928/PZBrzBZR_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/616531015373332481/DP748ijj_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/815250482667122688/MM42QjPL_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/799219501279625216/EfvdCf73_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/588323933335740417/snwNqjCZ_normal.jpg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/633814724132630528/2v4tC-zb_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/783636722735276032/JDL3odsZ_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802520407194513409/q4rg_Iy8_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/619986629848137729/oyavSGE0_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/25430232/sarah_profile_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/536645747568291841/ni8cqy0T_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1508248859/Picture_2_normal.png HTTP/1.1" 200 10341
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'iCCP' 41 3918
+DEBUG:PIL.PngImagePlugin:iCCP profile name b'icc'
+DEBUG:PIL.PngImagePlugin:Compression method 0
+DEBUG:PIL.PngImagePlugin:STREAM b'oFFs' 3971 9
+DEBUG:PIL.PngImagePlugin:b'oFFs' 3971 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 3992 9
+DEBUG:PIL.PngImagePlugin:STREAM b'vpAg' 4013 9
+DEBUG:PIL.PngImagePlugin:b'vpAg' 4013 9 (unknown)
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 4034 6158
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/430119570372689920/bvYKiFTP_normal.jpeg HTTP/1.1" 200 1851
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/769461111586492416/7tKLn6YF_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/539341662632558592/kDKhto1p_normal.jpeg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/825855012186238979/6eoTLXBK_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/640851088158126080/Olxt9ANe_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/461266892246630400/P6tjD_V9_normal.jpeg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/563440666622324736/t4yO6izV_normal.jpeg HTTP/1.1" 200 1731
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/672207666165522432/_1xNoh_z_normal.jpg HTTP/1.1" 200 1807
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802089681345187840/ARo4O4dh_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/643429953007153152/fEu31Wxy_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/814771282499764224/ioKUCQBD_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/821320554955280384/PMe5bAmA_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/798811395227664384/x1Ls0iD0_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/655482158480519169/LFyNkwZ-_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/604977431473209344/LPSOL529_normal.jpg HTTP/1.1" 200 1655
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/575047724925505536/B2zZbG9J_normal.png HTTP/1.1" 200 1959
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 1853
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/830015838728118272/pjIHnrkl_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/793783406601637888/M-ag_DzH_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/697898913022545920/jZHQUWCa_normal.jpg HTTP/1.1" 200 2187
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/645159396570460160/aLaQbT0r_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/2306887024/s0bh9mtg51pdqbgmtumb_normal.jpeg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/823124910671364096/JeDxud0e_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/822562545311641600/iNoinQOy_normal.jpg HTTP/1.1" 200 2035
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/1648587298/f8bcc316-2202-4c4c-aba9-1ede53ce54dd_normal.jpg HTTP/1.1" 200 7190
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/802829185806909440/UCaJZwSy_normal.jpg HTTP/1.1" 200 2111
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/761512046039105536/UVp-hQOn_normal.jpg HTTP/1.1" 200 2339
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/835202457357660160/yy55At9E_normal.jpg HTTP/1.1" 200 1959
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/649671515856879616/WQo7prfc_normal.jpg HTTP/1.1" 200 1503
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/836242371222261760/D0wDtf9w_normal.jpg HTTP/1.1" 200 2263
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/418871348371652608/WfJ551_K_normal.jpeg HTTP/1.1" 200 1569
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/719505283412856834/1FzO3gMs_normal.jpg HTTP/1.1" 200 2415
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): pbs.twimg.com
+DEBUG:requests.packages.urllib3.connectionpool:"GET /profile_images/689229990555168768/GimHIOP7_normal.jpg HTTP/1.1" 200 2035
